@@ -9,6 +9,8 @@ body {
 
 #splash {
   background-image: url(../images/apple-pie.jpg);
+  background-size: cover;
+  background-position: center;
   width: 1000px;
   height: 400px;
   margin: 0 auto;
